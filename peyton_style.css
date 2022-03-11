@@ -1,0 +1,39 @@
+<head>
+<style>
+
+img.dashed {border-style: dashed;
+color:blue;
+ border-width: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.p1 {
+  font-family: "Arial";
+}
+.h1 {
+  font-family: "Palatino";
+  color: "green";
+}
+.h2 {
+  font-family: "courier";
+  color: "pink";
+}
+.p.fancy {
+  border-style: "solid";
+  border-color: "orange";
+  background: "light yellow";
+}
+</style>
+</head>
+<body>
+
+<h2>The border-style Property</h2>
+
+
+<img src="https://m.media-amazon.com/images/M/MV5BZGYyNmU2NmEtNGU1ZS00YjFkLWI0MWQtZjU2MmUxZDAyN2UxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"class="dashed">
+
+
+</body>
